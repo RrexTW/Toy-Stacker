@@ -4,10 +4,13 @@
 Toy-Stacker control by dualshock 3 with ESP32
 
 # 使用的零件 Component
-ESP32 NodeMCU-32S
-L298n
-TT Motor
-18650 battery
+  ESP32 NodeMCU-32S
+  
+  L298n
+
+  TT Motor
+  
+  18650 battery
 
 # 來源 Sources
 https://github.com/jvpernis/esp32-ps3
