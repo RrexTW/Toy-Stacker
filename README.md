@@ -131,7 +131,7 @@ Toy-Stacker control by dualshock 3 with ESP32
   <p class="MsoNormal"><span lang="EN-US">18</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:8">
+ <tr style="mso-yfti-irow:8;mso-yfti-lastrow:yes">
   <td width="277" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt">
@@ -145,21 +145,7 @@ Toy-Stacker control by dualshock 3 with ESP32
   <p class="MsoNormal"><span lang="EN-US">19</span></p>
   </td>
  </tr>
- <tr style="mso-yfti-irow:9;mso-yfti-lastrow:yes">
-  <td width="277" valign="top" style="width:207.4pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal" style="mso-pagination:widow-orphan"><span lang="EN-US" style="color:black"><o:p>&nbsp;</o:p></span></p>
-  </td>
-  <td width="277" valign="top" style="width:207.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt">
-  <p class="MsoNormal"><span lang="EN-US"><o:p>&nbsp;</o:p></span></p>
-  </td>
- </tr>
 </tbody></table>
-
 
 # 來源 Sources
 https://github.com/jvpernis/esp32-ps3
